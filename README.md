@@ -92,7 +92,7 @@
 ### ◈ &nbsp;TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Ajay7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Ajay7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
