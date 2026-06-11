@@ -85,7 +85,22 @@
 
 **Tools & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux&theme=dark" />
+
+---
+
+### ◈ &nbsp;FEATURED PROJECTS
+
+<div align="left">
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Ajay7&repo=TraderAI&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00D4FF&icon_color=BF00FF&text_color=a0aec0" width="390" />](https://github.com/Rahul-Ajay7/TraderAI)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Ajay7&repo=MedicalHealth_Report_Interpreter&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00D4FF&icon_color=BF00FF&text_color=a0aec0" width="390" />](https://github.com/Rahul-Ajay7/MedicalHealth_Report_Interpreter)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Ajay7&repo=ThreadVision&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00D4FF&icon_color=BF00FF&text_color=a0aec0" width="390" />](https://github.com/Rahul-Ajay7/ThreadVision)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Ajay7&repo=Cardio_Health_ML&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00D4FF&icon_color=BF00FF&text_color=a0aec0" width="390" />](https://github.com/Rahul-Ajay7/Cardio_Health_ML)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Ajay7&repo=Oral_Health_Classifier&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00D4FF&icon_color=BF00FF&text_color=a0aec0" width="390" />](https://github.com/Rahul-Ajay7/Oral_Health_Classifier)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Ajay7&repo=stuProjectHub&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00D4FF&icon_color=BF00FF&text_color=a0aec0" width="390" />](https://github.com/Rahul-Ajay7/stuProjectHub)
+
+</div>
 
 ---
 
@@ -99,7 +114,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rahul-Ajay7/Rahul-Ajay7/output/snake.svg" alt="Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-Ajay7/Rahul-Ajay7/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-Ajay7/Rahul-Ajay7/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rahul-Ajay7/Rahul-Ajay7/output/snake-dark.svg" alt="Snake" />
+</picture>
 
 <img src="https://img.shields.io/github/followers/Rahul-Ajay7?label=FOLLOWERS&style=for-the-badge&color=BF00FF&labelColor=0D0D1A" />
 
